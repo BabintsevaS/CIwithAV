@@ -1,6 +1,6 @@
 image: Ubuntu  # образ для сборки
 
-stack: jdk 16  # версия JDK
+stack: jdk 16.0.1  # версия JDK
 
 branches:
   only:
